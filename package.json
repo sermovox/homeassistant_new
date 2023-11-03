@@ -1,0 +1,26 @@
+{
+  "name": "homeassistant_new",
+  "version": "1.0.0",
+  "description": "ha ws new",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filp/homeassistant-ws.git"
+  },
+  "keywords": [
+    "ha",
+    "ws"
+  ],
+  "author": "luigi marson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filp/homeassistant-ws/issues"
+  },
+  "homepage": "https://github.com/filp/homeassistant-ws#readme",
+  "dependencies": {
+    "homeassistant-ws": "^0.2.2"
+  }
+}
